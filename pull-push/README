@@ -1,0 +1,8 @@
+Run Pusheador
+  node push.js
+  
+Run Mapeador
+  node map.js <7 y 9>
+
+Run reduce
+   node reduce.js

@@ -1,0 +1,10 @@
+Run client
+  node client.js <port>
+
+Run load balancinf
+  node load_balancing.js <TIPO>
+  
+  Tipo: random o roundRobin o weightedRoundRobin
+
+Run Worker
+  node worker.js <port> <peso>

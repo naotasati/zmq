@@ -1,0 +1,5 @@
+Run Publicador
+  node pub.js
+
+Run Subscriptor
+  node sub.js <TEST1 | TEST2>
